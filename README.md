@@ -16,4 +16,6 @@ curl -X POST "http://localhost:8080/nifi-api/process-groups/root/process-groups/
 * https://sqlpad.github.io/sqlpad/#/
 * https://github.com/leahneukirchen/nq
 * https://github.com/plotly/falcon#readme
-* 
+* https://landrop.app/
+* https://github.com/six-ddc/plow
+* https://github.com/tomnomnom/gron
